@@ -1,0 +1,14 @@
+#Probabilistic Inference
+
+## Varibles
+	Evidence varibles
+	Query varibles
+	hidden varibles
+## Methods to speed up when there is too many varibles
+	1. Pulling out terms
+	2. maximize independence
+	3. varible elimination
+	   ¢Ù joining factors
+	   ¢Ú Approximate Inference£ºrejection samples
+	   ¢Û likelihood weighting
+	   ¢Ü gibbs sampling
